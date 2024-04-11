@@ -1,5 +1,5 @@
 {
-  "name": "kuke-platform-ui",
+  "name": "dellenite",
   "version": "1.0.0",
   "description": "表单框架头部组件",
   "main": "index.js",
@@ -9,6 +9,7 @@
   },
   "repository": {
     "type": "git"
+    "url": "https://github.com/b99b199/dellenite.git"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
